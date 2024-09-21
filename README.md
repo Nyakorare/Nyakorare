@@ -5,6 +5,7 @@
 - If you're used to pain, there are people who would be hurt by watching you get hurt.
 - People usually don’t look back to see how far they’ve come while they’re still walking. But when they come to a standstill, the more progress they’ve made, the more betrayed they feel by their expectations.
 - Excuses are meaningless. The tougher things get, the more likely people are to come to their own conclusions.
+Email contact: g1galba042804@gmail.com
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
