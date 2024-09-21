@@ -1,5 +1,5 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/920291165807618487/16A5A3D8BD6C90C2D6C8FF7B09EE5875C3830752/?imw=1024&imh=457&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
-<h1 align="center"> Hi, I am Glenn R. Galbadores I</h1>
+<h1 align="center"> I am Glenn R. Galbadores I</h1>
 
 # Quotes I Follow & Believe:<br>
 - If you're used to pain, there are people who would be hurt by watching you get hurt.
