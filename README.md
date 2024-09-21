@@ -24,7 +24,10 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/g1_galba)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ItsNotMe_Glenn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nyakorare) 
-## Email contact: g1galba042804@gmail.com
+## Email contact:
+- g1galba042804@gmail.com
+- glenn.galbadores@tup.edu.ph
+- gamerboy282004@yahoo.com
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/Nyakorare?country.x=PH&locale.x=en_US)
